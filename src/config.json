@@ -1,0 +1,21 @@
+{
+    "shopName": "🍦Ice-Cream  Shop🍦",
+    "headerBgColor": "#ff66d9",
+    "headerColor": "#fff",
+    "footerText": "© 2024 Ice Cream Shop. All rights reserved.",
+    "footerBgcolor":"#ff66d9",
+    "productsHeading": "Available Flavors",
+    "cardBgColor": "#fff",
+    "products": [
+      {
+        "name": "Vanilla",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRx8cVlmqMTfyWvkjsM0g3DAwlWd1hjNNf8IsJPVT8q7w4Fz78d3503PXRBx0bqf-PoeAe-eRhjQvvRzkATPb9jE55HUMUgq4zaOKV8A8CuGe4mdzA4Siwxzg",
+        "description": "Classic vanilla ice cream."
+      },
+      {
+        "name": "Chocolate",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-Se0wvMoMCOYnewq3FQakiRD7BWrZoOvxYs8xoXGHCU4QL0m2FLHPutBH_FQyHph4doH-a8v7FTudGkncR1sLQJHGHJseDgTnP1p0qEW49xyZWpn-Fu6t_A&usqp=CAE",
+        "description": "Rich chocolate ice cream."
+      }
+    ]
+  }
